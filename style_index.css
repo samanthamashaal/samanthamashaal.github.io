@@ -16,11 +16,10 @@ h2{
 
 body{height:100%;
    width:100%;
-   background-image:url(https://s-media-cache-ak0.pinimg.com/236x/3b/92/77/3b9277b5beef8fef7869f92a66a51dbd.jpg);/*your background image*/  
+   background-image:url(http://clipartion.com/wp-content/uploads/2015/10/cute-ice-cream-clipart-free-clip-art-images.png);/*your background image*/  
    background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
    background-size:cover;/*this sets the image to fullscreen covering the whole screen*/  
    /*css hack for ie*/     
-   filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://s-media-cache-ak0.pinimg.com/236x/3b/92/77/3b9277b5beef8fef7869f92a66a51dbd.jpg',sizingMethod='scale');
-   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://s-media-cache-ak0.pinimg.com/236x/3b/92/77/3b9277b5beef8fef7869f92a66a51dbd.jpg' ,sizingMethod='scale')";
+   filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.http://clipartion.com/wp-content/uploads/2015/10/cute-ice-cream-clipart-free-clip-art-images.png',sizingMethod='scale');
+   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://clipartion.com/wp-content/uploads/2015/10/cute-ice-cream-clipart-free-clip-art-images.png',sizingMethod='scale')";
 }
-
