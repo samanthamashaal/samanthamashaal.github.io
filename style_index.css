@@ -1,0 +1,18 @@
+p{
+color:#990099;
+font-family: Helvetica;
+font-size: 15;
+}
+
+h{
+	color:#ff6600;
+	font-family:Arial;
+}
+
+html{
+	background: url(https://upload.wikimedia.org/wikipedia/commons/2/2a/Glitter_close_up.jpg) no-repeat
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
