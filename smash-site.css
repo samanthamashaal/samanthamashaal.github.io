@@ -34,7 +34,7 @@ span {
 }
 
 .containerone {
-	padding-bottom: 60px;
+	padding-bottom: 80px;
 	margin-top: -60px;
 	background-image: url(http://images.clipartpanda.com/nerd-glasses-wallpaper-untitled_drawing_by_skygrl98-d5q02gl.png);
 	background-repeat: repeat-y;
@@ -84,6 +84,7 @@ span {
 
 .contact-section {
 	padding: 0;
+	margin-bottom: -300px;
 }
 
 section > .container {
